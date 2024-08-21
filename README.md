@@ -1,6 +1,6 @@
 # ML4W Dotfiles for Qtile
 
-[![Screenshot](uploads/11ba3348f537750988648c3236122a34/screenshot-27-4.png)](uploads/11ba3348f537750988648c3236122a34/screenshot-27-4.png)
+![image](https://github.com/user-attachments/assets/8c62ea30-d75b-424a-8d7c-198692e1942b)
 
 ## Main Packages
 
